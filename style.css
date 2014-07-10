@@ -76,6 +76,21 @@ button:hover, button:focus, input[type="submit"]:hover, input[type="button"]:hov
 	background: linear-gradient(to bottom, #960202 0%, #580000 100%);
 }
 
+
+/* hide the dotted lines around an element when it receives focus */
+
+ { _noFocusLine: expression(this.hideFocus=true); } /* ie7 */
+
+::-moz-focus-inner {
+	border: 0;
+	}   /* firefox */
+
+:focus {
+	outline: none;
+	} /* ie8, chrome, etc */
+
+
+
 /* 2. Top Nav Bar 
 -------------------------------------------------------------- */
 
@@ -286,6 +301,7 @@ ul.shirts li {
 	margin: 0 auto;
 	width: 665px;
 } 
+
 
 .ink-colors {
 	border-top: 10px solid #000;
