@@ -157,15 +157,6 @@ ul.nav-menu, div.nav-menu > ul {
 	font-weight: 700;
 }
 
-li.nav-home {
-	background: url('images/nav-logo.png');
-	width: 149px;
-	height: 124px;
-	margin: 0 20px;
-}
-
-
-
 .nav-menu li:hover > a, .nav-menu li a:hover, .nav-menu li:focus > a, .nav-menu li a:focus {
 	background: none;
 }

@@ -12,7 +12,7 @@ Twitter area for the homepage.
 <div class="home-twitter">
 	<div class="entry-content">
 
-	Twitter feed.
+	<?php echo do_shortcode('[sstfeed]'); ?>
 
 
 
