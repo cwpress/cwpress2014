@@ -49,5 +49,6 @@ get_header(); ?>
 		</div><!-- #content -->
 	</div><!-- #primary -->
 
+	<?php echo get_new_royalslider(5); ?>
 
 <?php get_footer(); ?>
