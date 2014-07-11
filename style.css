@@ -569,6 +569,10 @@ h3#reply-title {
 /* 10. Footer 
 -------------------------------------------------------------- */
 
+.instagram-slide {
+	border-top: 15px solid #ffc30e;
+}
+
 .site-footer {
 	border-top: 15px solid #ffc30e;
 	background-color: #ffc30e;
