@@ -76,6 +76,8 @@
 				<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
 			</a> */ ?>
 
+			<div class="logo"><a href="<?php echo site_url(); ?>"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/nav-logo.png"></a></div>
+
 			<div id="navbar" class="navbar">
 				<nav id="site-navigation" class="navigation main-navigation" role="navigation">
 					<h3 class="menu-toggle"><?php _e( 'Menu', 'twentythirteen' ); ?></h3>

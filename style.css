@@ -95,7 +95,20 @@ button:hover, button:focus, input[type="submit"]:hover, input[type="button"]:hov
 -------------------------------------------------------------- */
 
 .site-header {
+	background: none;	
 	z-index: 200;
+}
+
+.logo {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -87px;
+}
+
+.logo a {
+	height: 149px;
+	width: 124px;
 }
 
 .navbar {
@@ -116,11 +129,11 @@ ul.nav-menu, div.nav-menu > ul {
 	padding-top: 25px;
 }
 
-.nav-menu li:nth-child(1) a, .nav-menu li:nth-child(2) a, .nav-menu li:nth-child(5) a, .nav-menu li:nth-child(6) a {
+.nav-menu li:nth-child(1) a, .nav-menu li:nth-child(2) a, .nav-menu li:nth-child(4) a, .nav-menu li:nth-child(5) a {
 	padding-right: 0;
 }
 
-.nav-menu li:nth-child(1) a:after, .nav-menu li:nth-child(2) a:after, .nav-menu li:nth-child(5) a:after, .nav-menu li:nth-child(6) a:after {
+.nav-menu li:nth-child(1) a:after, .nav-menu li:nth-child(2) a:after, .nav-menu li:nth-child(4) a:after, .nav-menu li:nth-child(5) a:after {
 	display: inline-block;
 	content: "• • •";
 	color: #fff;
@@ -129,7 +142,13 @@ ul.nav-menu, div.nav-menu > ul {
 	line-height: .5em;
 }
 
- 
+ .nav-menu li:nth-child(3) {
+ 	margin-right: 75px;
+ }
+
+  .nav-menu li:nth-child(4) {
+ 	margin-left: 75px;
+ }
 
 .nav-menu li a {
 	color: #0b0708;
@@ -145,10 +164,7 @@ li.nav-home {
 	margin: 0 20px;
 }
 
-li.nav-home a {
-	visibility: hidden;
 
-}
 
 .nav-menu li:hover > a, .nav-menu li a:hover, .nav-menu li:focus > a, .nav-menu li a:focus {
 	background: none;
