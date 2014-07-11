@@ -42,8 +42,8 @@ get_header(); ?>
 					</footer><!-- .entry-meta -->
 				</article><!-- #post -->
 
-				<?php get_template_part( 'announcement', 'home' ); ?>
-				<?php get_template_part( 'merch', 'home' ); ?>
+				<?php get_template_part( 'home-twitter', 'home' ); ?>
+				<?php get_template_part( 'home-merch', 'home' ); ?>
 			<?php endwhile; ?>
 
 		</div><!-- #content -->
