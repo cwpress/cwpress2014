@@ -294,6 +294,42 @@ border-bottom: 6px solid #000;
 }
 
 .merch-content {
+	width: 800px;
+	margin: 40px auto;
+}
+
+.merch-content img {
+	width: 100%;
+}
+
+.home-order {
+	float: left;
+}
+
+.tesimonial-container {
+	width: 70%;	
+	float: right;
+}
+
+.testimonial {
+	background-color: #ffc30e;
+	color: #000000;
+	font-size: 24px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: 500;
+	padding: 30px;
+	line-height: 30px;
+}
+
+.retail-divide {
+	background-color: #000;
+	padding: 8px;
+	color: #ffc30e;
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size: 14px;
+	font-family: Helvetica, Arial, sans-serif;
+	margin: 40px 0;
 
 }
 
