@@ -330,7 +330,16 @@ border-bottom: 6px solid #000;
 	font-size: 14px;
 	font-family: Helvetica, Arial, sans-serif;
 	margin: 40px 0;
+}
 
+.print2live {
+	font-size: 52px;
+	font-weight: 700;
+	border-top: 5px solid #000;
+}
+
+.print2live .fa-instagram {
+	color: #ffc30e;	
 }
 
 /* 6. Pages 
