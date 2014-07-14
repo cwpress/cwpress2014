@@ -23,7 +23,7 @@ Template for the stickers tab of the print page.
 <h4>We can print other sizes but this will give you an idea of cost vs quantity.</h4>
 
 <table>
-<tr><th></th><th>125</th><th>250</th><th>500</th><th>1,000xx</th></tr>
+<tr><th></th><th>125</th><th>250</th><th>500</th><th>1,000</th></tr>
 <tr><td>3.5 x 3.5</td><td>$30</td><td>$50</td><td>$75</td><td>$130</td></tr>
 <tr><td>3.5 x 1.875</td><td>$35</td><td>$60</td><td>$80</td><td>$140</td></tr>
 <tr><td>6 x 2.5</td><td>$40</td><td>$70</td><td>$85</td><td>$150</td></tr>
