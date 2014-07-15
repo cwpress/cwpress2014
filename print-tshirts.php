@@ -128,5 +128,5 @@ Template for the tshirts tab of the print page.
    <p>We also have a pretty cool looking wall of ink (PIC OF WALL) so if the color you are looking for isn’t there, we can mix it up for you. Mixing ink takes years of color theory and lots of screwing up - we have both of those under our belt so don’t sweat it, we do this every day and will nail it for you. If you want an actual pantone match, we can special order that in for you for an additional $30.</p>
 </div>
 <div class="order-img">
-   <a href="<?php echo site_url(); ?>/quote-request"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/place-order.svg"></a>
+   <a href="<?php echo site_url(); ?>/quote-request/"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/place-order.svg"></a>
 </div>
