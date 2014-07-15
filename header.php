@@ -95,7 +95,17 @@
 		<?php if( is_front_page() ) {
 			echo get_new_royalslider(2); 
 		} elseif (is_page(5)) {
-			//do nothing
+			//do nothing - print page
+		} elseif (is_page(7)) {
+			echo get_new_royalslider(6); // design page
+		} elseif (is_page(9)) {
+			echo get_new_royalslider(7); // retail page
+		} elseif (is_page(11)) {
+			echo get_new_royalslider(8); // info page
+		} elseif (is_page(13)) {
+			echo get_new_royalslider(9); // educate page
+		} elseif (is_page(15)) {
+			echo get_new_royalslider(10); // news page
 		} else {
-			echo get_new_royalslider(3);
+			echo get_new_royalslider(3); // default slider
 		} ?>

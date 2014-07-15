@@ -9,7 +9,7 @@
 	<div class="merch-content">
 
 	<div class="home-order">
-	<a href="#"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/place-order.svg"></a>
+	<a href="<img src="<?php echo site_url(); ?>/quote-request"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/place-order.svg"></a>
 	</div>
 
 	<div class="tesimonial-container">
