@@ -51,18 +51,22 @@
 		});
 		$('#sweatshirt-tab-container').easytabs({
 			collapsible: true,
+			transitionIn: 'fadeIn',
 			transitionCollapse: 'fadeOut'
 		});
 		$('#poster-tab-container').easytabs({
 			collapsible: true,
+			transitionIn: 'fadeIn',
 			transitionCollapse: 'fadeOut'
 		});
 		$('#sticker-tab-container').easytabs({
 			collapsible: true,
+			transitionIn: 'fadeIn',
 			transitionCollapse: 'fadeOut'
 		});
 		$('#question-tab-container').easytabs({
 			collapsible: true,
+			transitionIn: 'fadeIn',
 			transitionCollapse: 'fadeOut'
 		});
 	});
@@ -70,11 +74,6 @@
 	<div id="page" class="hfeed site">
 		<header id="masthead" class="site-header" role="banner">
 			
-			<?php /*
-			<a class="home-link" href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
-				<h1 class="site-title"><?php bloginfo( 'name' ); ?></h1>
-				<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
-			</a> */ ?>
 
 			<div class="logo"><a href="<?php echo site_url(); ?>"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/nav-logo.png"></a></div>
 
