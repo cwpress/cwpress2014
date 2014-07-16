@@ -105,6 +105,7 @@ button:hover, button:focus, input[type="submit"]:hover, input[type="button"]:hov
 	left: 50%;
 	margin-left: -87px;
 	display: block;
+	z-index: 9999;
 }
 
 .logo a {
