@@ -31,6 +31,7 @@ logo green - #00a843
 8. Sidebar
 9. Comments
 10. Footer
+11. Gravity Forms
 xx. Responsive
 */
 
@@ -738,5 +739,11 @@ ul.social-icons {
 .order-form {
 	float: right;
 	position: relative;
+}
 
+/* 11. Gravity Forms
+-------------------------------------------------------------- */
+.list-inline ul li {
+	display: inline-block;
+	margin-right: 15px;
 }
