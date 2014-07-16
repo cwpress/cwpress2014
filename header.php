@@ -43,26 +43,35 @@
 	$(document).ready(function(){
 		$('#tab-container').easytabs({
 			collapsible: true,
-			transitionCollapse: 'fadeOut'
+			transitionCollapse: 'slideUp',
+			transitionUncollapse: 'slideDown'
 		});
 		$('#shirt-tab-container').easytabs({
-			
-			transitionCollapse: 'fadeOut'
+			collapsible: true,
+			transitionCollapse: 'slideUp',
+			transitionUncollapse: 'slideDown'
 		});
 		$('#sweatshirt-tab-container').easytabs({
-			collapsible: true
-			
+			collapsible: true,
+			transitionCollapse: 'slideUp',
+			transitionUncollapse: 'slideDown'
 		});
 		$('#poster-tab-container').easytabs({
-			collapsible: true
+			collapsible: true,
+			transitionCollapse: 'slideUp',
+			transitionUncollapse: 'slideDown'
 			
 		});
 		$('#sticker-tab-container').easytabs({
-			collapsible: true
+			collapsible: true,
+			transitionCollapse: 'slideUp',
+			transitionUncollapse: 'slideDown'
 			
 		});
 		$('#question-tab-container').easytabs({
-			collapsible: true
+			collapsible: true,
+			transitionCollapse: 'slideUp',
+			transitionUncollapse: 'slideDown'
 
 		});
 	});
