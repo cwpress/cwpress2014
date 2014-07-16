@@ -192,11 +192,11 @@ border-bottom: 6px solid #000;
 }
 
 /* #new-royalslider-3 is smaler slider on pages */
-#new-royalslider-3 .rsOverflow {
+#new-royalslider-3 .rsOverflow, #new-royalslider-6 .rsOverflow, #new-royalslider-7 .rsOverflow, #new-royalslider-8 .rsOverflow, #new-royalslider-9 .rsOverflow, #new-royalslider-10 .rsOverflow {
 	height: 200px;
 }
 
-#new-royalslider-3 .rsImg {
+#new-royalslider-3 .rsImg, #new-royalslider-6 .rsImg, #new-royalslider-7 .rsImg, #new-royalslider-8 .rsImg, #new-royalslider-9 .rsImg, #new-royalslider-10 .rsImg {
 	width: 100% !important;
 	height: auto !important;
 	margin: 0 auto !important;
