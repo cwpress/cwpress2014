@@ -19,7 +19,7 @@ Template for the tshirts tab of the print page.
 			<li>When do you need them?<br>(Our turnaround is 10 business days. Do you need a rush?)</li>
 			</ol>
 			</div>
-	    <img src="http://localhost:8888/cwpress/wp-content/themes/cwpress2014/images/orderform-download.png" class="order-form">
+	    <a href="<?php echo site_url(); ?>/quote-request/"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/orderform-download.png" class="order-form"></a>
 
 	    <div class="clear"></div>
 </div> <!-- .tab-container-top -->
