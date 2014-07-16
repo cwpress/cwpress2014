@@ -49,6 +49,6 @@ get_header(); ?>
 		</div><!-- #content -->
 	</div><!-- #primary -->
 
-	<?php echo do_shortcode('[alpine-phototile-for-instagram id=390 user="cwpress" src="user_recent" imgl="none" style="cascade" col="7" size="Th" num="28" align="center" max="100"]'); ?>
+	<?php echo do_shortcode('[alpine-phototile-for-instagram id=294 user="cwpress" src="user_recent" imgl="none" style="cascade" col="9" size="Th" num="27" align="center" max="100"]'); ?>
 
 <?php get_footer(); ?>
