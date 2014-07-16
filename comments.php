@@ -15,8 +15,12 @@
  */
 if ( post_password_required() )
 	return;
-?>
-<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/farmer-skulls-comments.svg" class="farmer-comments">
+if ( have_comments() ) : ?>
+
+	<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/farmer-skulls-comments.svg" class="farmer-comments">
+
+<?php endif; // have_comments() ?>
+
 <div id="comments" class="comments-area">
 	
 
