@@ -50,20 +50,20 @@
 			transitionCollapse: 'fadeOut'
 		});
 		$('#sweatshirt-tab-container').easytabs({
-			collapsible: true,
+			collapsible: true
 			
 		});
 		$('#poster-tab-container').easytabs({
-			collapsible: true,
+			collapsible: true
 			
 		});
 		$('#sticker-tab-container').easytabs({
-			collapsible: true,
+			collapsible: true
 			
 		});
 		$('#question-tab-container').easytabs({
-			collapsible: true,
-			
+			collapsible: true
+
 		});
 	});
 	</script>
