@@ -51,23 +51,19 @@
 		});
 		$('#sweatshirt-tab-container').easytabs({
 			collapsible: true,
-			transitionIn: 'fadeIn',
-			transitionCollapse: 'fadeOut'
+			
 		});
 		$('#poster-tab-container').easytabs({
 			collapsible: true,
-			transitionIn: 'fadeIn',
-			transitionCollapse: 'fadeOut'
+			
 		});
 		$('#sticker-tab-container').easytabs({
 			collapsible: true,
-			transitionIn: 'fadeIn',
-			transitionCollapse: 'fadeOut'
+			
 		});
 		$('#question-tab-container').easytabs({
 			collapsible: true,
-			transitionIn: 'fadeIn',
-			transitionCollapse: 'fadeOut'
+			
 		});
 	});
 	</script>
