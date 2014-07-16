@@ -44,35 +44,39 @@
 		$('#tab-container').easytabs({
 			collapsible: true,
 			transitionCollapse: 'slideUp',
-			transitionUncollapse: 'slideDown'
+			transitionUncollapse: 'slideDown',
+			updateHash: false
 		});
 		$('#shirt-tab-container').easytabs({
 			collapsible: true,
 			transitionCollapse: 'slideUp',
-			transitionUncollapse: 'slideDown'
+			transitionUncollapse: 'slideDown',
+			updateHash: false
 		});
 		$('#sweatshirt-tab-container').easytabs({
 			collapsible: true,
 			transitionCollapse: 'slideUp',
-			transitionUncollapse: 'slideDown'
+			transitionUncollapse: 'slideDown',
+			updateHash: false
 		});
 		$('#poster-tab-container').easytabs({
 			collapsible: true,
 			transitionCollapse: 'slideUp',
-			transitionUncollapse: 'slideDown'
+			transitionUncollapse: 'slideDown',
+			updateHash: false
 			
 		});
 		$('#sticker-tab-container').easytabs({
 			collapsible: true,
 			transitionCollapse: 'slideUp',
-			transitionUncollapse: 'slideDown'
-			
+			transitionUncollapse: 'slideDown',
+			updateHash: false
 		});
 		$('#question-tab-container').easytabs({
 			collapsible: true,
 			transitionCollapse: 'slideUp',
-			transitionUncollapse: 'slideDown'
-
+			transitionUncollapse: 'slideDown',
+			updateHash: false
 		});
 	});
 	</script>
