@@ -745,5 +745,8 @@ ul.social-icons {
 -------------------------------------------------------------- */
 .list-inline ul li {
 	display: inline-block;
-	margin-right: 15px;
+}
+
+.gform_wrapper .list-inline  ul.gfield_checkbox li, .gform_wrapper .list-inline  ul.gfield_radio li {
+	margin-right: 8px;
 }
