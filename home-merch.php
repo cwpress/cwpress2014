@@ -48,9 +48,8 @@
 	});	
 	</script> <!-- end linkcious -->
 
-
-
-	<div class="print2live">PRINT TO LIVE <i class="fa fa-instagram"></i> LIVE TO PRINT</div>
+	<div class="print2live">PRINT TO LIVE <a href="http://instagram.com/cwpress" title="CWPress Instagram" target="_blank"><i class="fa fa-instagram"></i></a> LIVE TO PRINT</div>
+	<p><a href="http://instagram.com/cwpress" title="CWPress Instagram" target="_blank">@cwpress on instagram</a></p>
 
 	</div>
 </div>

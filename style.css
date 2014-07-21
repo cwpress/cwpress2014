@@ -332,13 +332,17 @@ border-bottom: 6px solid #000;
 	font-weight: 500;
 	font-size: 14px;
 	font-family: Helvetica, Arial, sans-serif;
-	margin: 40px 0;
+	margin: 40px 0 20px;
 }
 
 .print2live {
 	font-size: 52px;
 	font-weight: 700;
 	border-top: 5px solid #000;
+}
+
+.print2live p a {
+	color: #00a843;
 }
 
 .print2live .fa-instagram {
