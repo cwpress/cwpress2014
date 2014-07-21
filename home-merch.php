@@ -21,7 +21,7 @@
 	
 	<!-- Shopify Plugin linkcious - plugin lives on shopify and they give this code -->
 	<div id = "linkcious_ads" style = "display: inline-block;" ></div>
-	<script charset="utf-8" src = "http://www.linkcious.com/linkcious.js"></script>
+	<script charset="utf-8" src = "<?php echo site_url(); ?>/wp-content/themes/cwpress2014/js/linkcious.js"></script>
 	<script>
 	Linkcious.init({
 		settings: {
