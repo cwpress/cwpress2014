@@ -14,12 +14,13 @@
  * entered the password we will return early without loading the comments.
  */
 if ( post_password_required() )
-	return;
-if ( have_comments() ) ?>
+	return; 
+
+if ( comments_open() ) { ?>
 
 	<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/farmer-skulls-comments.svg" class="farmer-comments">
 
-<?php   // have_comments() ?>
+	<?php } ?>
 
 <div id="comments" class="comments-area">
 	

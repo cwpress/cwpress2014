@@ -18,8 +18,8 @@ Twitter area for the homepage.
 	<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
 	<ul>
 		<li><a href="https://twitter.com/intent/tweet?screen_name=cwpress">reply</a></li>
-		<li><a href="https://twitter.com/intent/retweet">retweet</a></li>
-		<li><a href="https://twitter.com/intent/favorite">favorite</a></li>
+		<!-- <li><a href="https://twitter.com/intent/retweet">retweet</a></li>
+		<li><a href="https://twitter.com/intent/favorite">favorite</a></li> -->
 		<li><a href="https://twitter.com/intent/user?screen_name=cwpress">follow</a></li>
 	</ul>
 
