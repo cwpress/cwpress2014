@@ -597,6 +597,7 @@ h3#reply-title {
 	border-top: 15px solid #ffc30e;
 	background-color: #ffc30e;
 	color: #000;
+	margin-top: 0 !important;
 }
 
 .site-footer a {
