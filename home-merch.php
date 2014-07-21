@@ -29,7 +29,7 @@
 			key: '5322f771fd92ad9bc9d231363cd70c5292f4ce20',
 			rows: 1,
 			cols: 4,
-			img_width: 22%,
+			img_width: '22%',
 			img_height: 'auto',
 			title: true,
 			price: true,
