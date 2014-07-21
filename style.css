@@ -761,7 +761,12 @@ ul.social-icons {
 
 /* 11. Gravity Forms
 -------------------------------------------------------------- */
-.list-inline ul li, #input_1_46 li {
+
+#input_1_46 li {
+	display: inline-block;
+	margin-right: 30px;
+}
+.list-inline ul li {
 	display: inline-block;
 }
 
