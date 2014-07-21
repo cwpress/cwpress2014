@@ -20,7 +20,7 @@
 	<div class="retail-divide">OUR OWN LINE OF RETAIL GOods are READILY AVAILABLE online and our brick and mortar STORE</div>
 	
 	<!-- Shopify Plugin linkcious - plugin lives on shopify and they give this code -->
-	<!-- <linkcious keywords=‘tshirt' /> -->
+	<!-- <linkcious keywords=‘commonwealth press' /> -->
 	<div id = "linkcious_ads" style = "display: inline-block;" ></div>
 	<script charset="utf-8" src = "<?php echo site_url(); ?>/wp-content/themes/cwpress2014/js/linkcious.js"></script>
 	<script>
