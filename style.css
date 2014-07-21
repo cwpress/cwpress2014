@@ -761,10 +761,35 @@ ul.social-icons {
 
 /* 11. Gravity Forms
 -------------------------------------------------------------- */
-.list-inline ul li {
+.list-inline ul li, #input_1_46 li {
 	display: inline-block;
 }
 
 .gform_wrapper .list-inline  ul.gfield_checkbox li, .gform_wrapper .list-inline  ul.gfield_radio li {
 	margin-right: 8px;
+}
+
+
+/* xx. Responsive
+-------------------------------------------------------------- */
+
+@media screen(min-width: 1601px) {
+
+	.site {
+		max-width: 1920px;
+	}
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+@media (max-width: 643px) {
+
+}
+
+/* Mobile devices */
+@media (max-width: 359px) {
+
 }
