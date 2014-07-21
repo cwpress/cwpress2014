@@ -345,6 +345,13 @@ border-bottom: 6px solid #000;
 	color: #ffc30e;	
 }
 
+/* linkcious */
+
+
+.linkcious_footer {
+	display: none;
+}
+
 /* 6. Pages 
 -------------------------------------------------------------- */
 

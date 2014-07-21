@@ -126,7 +126,7 @@
 			linkcious_ads.css('padding-top', '20px');
 			linkcious_ads.css('padding-bottom', '20px');
 			
-			linkcious_ads.html("<img src = 'http://www.linkcious.com/wp-content/themes/linkcious//img/linkcious_loader.gif' style = 'float: none; display: inline-block;' />");
+			linkcious_ads.html("<img src = 'http://www.linkcious.com/wp-content/themes/linkcious//img/linkcious_loader.gif' style = 'float: none; display: inline-block; height: 40px; width: 40px;' />");
 
 			jQuery.ajaxSetup({
 			     timeout: 20000
