@@ -42,7 +42,7 @@
 				size: 15,
 				title_bold: true,
 				img_border: true,
-				img_border_color: #ECECEC
+				img_border_color: '#ECECEC',
 			},
 		}
 	});	
