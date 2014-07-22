@@ -990,6 +990,10 @@ ul.social-icons {
 
 @media (max-width: 643px) {
 
+	.farmer {
+		margin-top: 0;
+	}
+
 }
 
 @media (max-width: 550px) {
