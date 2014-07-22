@@ -307,14 +307,12 @@ font-style: normal;
 -------------------------------------------------------------- */
 
 .merch-wrapper {
-	background-color: #ffffff;
-	min-height: 300px;
 	color: #000000;
 	text-align: center;
 }
 
 .merch-content {
-	width: 800px;
+	max-width: 800px;
 	margin: 40px auto 20px;
 }
 
@@ -346,16 +344,27 @@ font-style: normal;
 	padding: 8px;
 	color: #ffc30e;
 	text-transform: uppercase;
+	text-align: center;
 	font-weight: 500;
 	font-size: 14px;
 	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
-	margin: 40px 0 20px;
+	padding: 8px 15px;
+	width: 100%;
+	clear: both;
+	margin-top: 40px;
+}
+
+.retail-divide2 {
+	background-color: #000;
+	height: 5px;
+	width: 100%;
+	clear: both;
+	margin-top: 40px;
 }
 
 .print2live {
 	font-size: 50px;
 	font-weight: 700;
-	border-top: 5px solid #000;
 }
 
 .print2live p a {
@@ -859,6 +868,18 @@ ul.social-icons {
 	  .nav-menu li:nth-child(4) {
 	 	margin-left: 0px;
 	 }
+
+	 .home-order {
+			float: none;
+			width: 50%;
+			margin: 0 auto 20px;
+		}
+
+		.tesimonial-container {
+			width: 70%;
+			margin: 0 auto;
+			float: none;
+		}
 }
 
 @media (max-width: 767px) {

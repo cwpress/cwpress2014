@@ -16,9 +16,14 @@
 	<?php echo get_new_royalslider(4); ?>
 	</div>
 
+		</div> <!-- .merch-content -->
+</div> <!-- .merch-wrapper -->
 	<div class="clear"></div>
 	<div class="retail-divide">OUR OWN LINE OF RETAIL GOods are READILY AVAILABLE online and our brick and mortar STORE</div>
-	
+
+
+<div class="merch-wrapper">
+	<div class="merch-content">
 	<!-- Shopify Plugin linkcious - plugin lives on shopify and they give this code -->
 	<!-- <linkcious keywords=‘commonwealth press' /> -->
 	<div id = "linkcious_ads" style = "display: inline-block;" ></div>
@@ -48,6 +53,15 @@
 		}
 	});	
 	</script> <!-- end linkcious -->
+
+	</div> <!-- .merch-content -->
+</div> <!-- .merch-wrapper -->
+	<div class="clear"></div>
+	<div class="retail-divide2"></div>
+
+
+<div class="merch-wrapper">
+	<div class="merch-content">
 
 	<div class="print2live">PRINT TO LIVE <a href="http://instagram.com/cwpress" title="CWPress Instagram" target="_blank"><i class="fa fa-instagram"></i></a> LIVE TO PRINT</div>
 	<p><a href="http://instagram.com/cwpress" title="CWPress Instagram" target="_blank">@cwpress on instagram</a></p>
