@@ -532,7 +532,8 @@ ul.shirts li {
 	
 #info, #basic, #ringspun, #fashion, #ecofriendly {
 	margin: 0 auto;
-	width: 665px;
+	max-width: 665px;
+	width: 100%;
 } 
 
 
