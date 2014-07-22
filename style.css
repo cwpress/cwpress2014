@@ -448,7 +448,6 @@ font-style: normal;
 }
 
 .print-tabs .tab a.active { 
-	font-weight: bold; 
 	color: #000;
 }
 
