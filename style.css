@@ -614,7 +614,7 @@ h3#reply-title {
 	text-transform: uppercase;
 	font-family: 'Oswald', 'Helvetica', 'Arial', sans-serif;
 	font-size: 12px;
-	font-weight: 700;
+	font-weight: 400;
 }
 
 .gray, .site-footer .gray a {
@@ -636,6 +636,8 @@ h3#reply-title {
 	padding-top: 15px;
 	text-align: center;
 	margin: 15px 10% 0 0;
+	font-family: 'Oswald', 'Helvetica', 'Arial', sans-serif;
+	font-weight: 400;
 }
 
 .exist {
