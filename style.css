@@ -1025,4 +1025,15 @@ ul.social-icons {
 		width: 100%;
 	}
 
+	.tab-container-top-left {
+		float: none;
+		width: 90%;
+	}
+
+	.order-form {
+		float: right;
+		position: relative;
+		width: 25%;
+	}
+
 }
