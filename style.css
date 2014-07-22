@@ -498,7 +498,7 @@ font-style: normal;
 /* 6.1.1 Shirts
 -------------------------------------------------------------- */
 
-#shirt-tab-container {
+#shirt-tab-container, #sweatshirt-tab-container, #poster-tab-container, #sticker-tab-container, #question-tab-container {
 	margin: 0 30px;
 }
 
@@ -517,7 +517,7 @@ ul.shirts li {
 	height: 100px;
 	width: 100px;
 	text-align: center;
-	margin: 0 15px;
+	margin: 15px;
 	font-family: 'Oswald', Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 } 
