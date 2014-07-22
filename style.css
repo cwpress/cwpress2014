@@ -178,7 +178,7 @@ ul.nav-menu, div.nav-menu > ul {
 }
 
 .nav-menu .current_page_item > a, .nav-menu .current_page_ancestor > a, .nav-menu .current-menu-item > a, .nav-menu .current-menu-ancestor > a {
-color: #fff;
+color: #580000;
 font-style: normal;
 /*border-bottom: 6px solid #000;*/
 }
