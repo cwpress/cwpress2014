@@ -414,6 +414,8 @@ ul.shirts li {
 	width: 100px;
 	text-align: center;
 	margin: 0 15px;
+	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
 } 
 
 .shirt1 {
@@ -427,6 +429,8 @@ ul.shirts li {
 #info, #basic, #ringspun, #fashion, #ecofriendly {
 	margin: 0 auto;
 	width: 665px;
+	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
 } 
 
 
@@ -449,6 +453,7 @@ ul.shirts li {
 	text-align: center;
 	line-height: 100px;
 	color: #000;
+	font-family: 'Oswald', Helvetica, Arial, sans-serif;
 	font-size: 12px;
 	font-weight: 500;
 	text-transform: uppercase;
@@ -668,9 +673,7 @@ h3#reply-title {
 	margin: 0 auto;
 	text-align: center;
 	font-size: 12px;
-	font-family: Helvetica, Arial, sans-serif;
-	font-weight: 700;	
-
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 }
 
 /* Social Icons */
