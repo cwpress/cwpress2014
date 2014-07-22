@@ -13,7 +13,7 @@ if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
 	<div id="secondary" class="sidebar-container" role="complementary">
 		<div class="widget-area">
 		<div class="thanks">Thanks<br>for your<br>business</div>
-		<div class="exist"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/exist.png"></div>
+		<div class="exist"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/exist2.png"></div>
 			<?php dynamic_sidebar( 'sidebar-1' ); ?>
 		</div><!-- .widget-area -->
 	</div><!-- #secondary -->
