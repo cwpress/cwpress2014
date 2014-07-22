@@ -1007,6 +1007,14 @@ ul.social-icons {
 }
 
 /* Mobile devices */
-@media (max-width: 359px) {
+@media (max-width: 400px) {
+
+	ul.shirts li {
+		width: 40px;
+	}
+
+	svg {
+		width: 100%;
+	}
 
 }
