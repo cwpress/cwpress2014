@@ -1009,6 +1009,14 @@ ul.social-icons {
 /* Mobile devices */
 @media (max-width: 400px) {
 
+	.page-id-5 .tab-container {
+		margin: 50px auto 0;
+	}
+
+	.print-tabs .tab {
+		margin: 8px;
+	}
+
 	ul.shirts li {
 		width: 40px;
 	}
