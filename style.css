@@ -78,6 +78,10 @@ textarea {
 	color: #580000;
 }
 
+.screen-reader-text {
+	right: 0;
+}
+
 /* Buttons */
 
 button, input[type="submit"], input[type="button"], input[type="reset"] {
@@ -488,16 +492,22 @@ font-style: normal;
 .order-form {
 	float: right;
 	position: relative;
+	width: 25%;
 }
 
 /* 6.1.1 Shirts
 -------------------------------------------------------------- */
 
+#shirt-tab-container {
+	margin: 0 30px;
+}
+
 ul.shirts {
 	text-decoration: none;
 	margin: 0 auto;
 	padding: 0;
-	width: 667px;
+	max-width: 667px;
+	width: 100%;
 
 
 }
@@ -529,8 +539,10 @@ ul.shirts li {
 .ink-colors {
 	border-top: 10px solid #000;
 	border-bottom: 10px solid #000;
-	margin: 30px auto;
-	width: 665px;
+	margin: 30px 0;
+	padding: 0 30px;
+	max-width: 665px;
+	width: 100%;
 }
 
 .ink {
@@ -870,16 +882,18 @@ ul.social-icons {
 	 }
 
 	 .home-order {
-			float: none;
-			width: 50%;
-			margin: 0 auto 20px;
-		}
+		float: none;
+		width: 50%;
+		margin: 0 auto 20px;
+	}
 
-		.tesimonial-container {
-			width: 70%;
-			margin: 0 auto;
-			float: none;
-		}
+	.tesimonial-container {
+		width: 70%;
+		margin: 0 auto;
+		float: none;
+	}
+
+	
 }
 
 @media (max-width: 767px) {
@@ -987,6 +1001,8 @@ ul.social-icons {
 		position: fixed;
 		right: 0;
 	}
+
+	
 }
 
 /* Mobile devices */
