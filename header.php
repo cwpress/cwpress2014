@@ -25,14 +25,15 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 	<!--[if lt IE 9]>
 	<script src="<?php echo get_template_directory_uri(); ?>/js/html5.js"></script>
 	<![endif]-->
 
 	<!-- easy tabs  -->
-	<script src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/js/jquery-1.11.1.min.js" type="text/javascript"></script>
-	<script src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/js/jquery.hashchange.min.js" type="text/javascript"></script>
-	<script src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/js/jquery.easytabs.js" type="text/javascript"></script>
+	<script src="<?php echo get_template_directory_uri(); ?>/js/jquery-1.11.1.min.js" type="text/javascript"></script>
+	<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.hashchange.min.js" type="text/javascript"></script>
+	<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.easytabs.js" type="text/javascript"></script>
 
 
 	<?php wp_head(); ?>
