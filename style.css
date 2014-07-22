@@ -396,6 +396,87 @@ border-bottom: 6px solid #000;
 	padding: 0;
 }
 
+/* easy tabs */
+
+.etabs { 
+	margin: 0; 
+	padding: 0; 
+}
+
+.print-tabs {
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+}
+
+.print-tabs .tab { 
+	display: inline-block; 
+	/*zoom: 1;*/ 
+	*display:inline; 
+	background: #000; 
+	border-radius: 50%; 
+	-moz-border-radius: 50%; 
+	-webkit-border-radius: 50%; 
+	height: 85px;
+	width: 85px;
+	color: #ffc30e;
+	margin: 0 15px;
+}
+
+.print-tabs .tab a { 
+	font-size: 14px; 
+	line-height: 85px;
+	color: #ffc30e;
+	display: block;  
+}
+
+.print-tabs .tab a:hover { 
+	color: #000; 
+	text-decoration: none;
+}
+
+.print-tabs li.tab:hover {
+	background-color: #ffc30e;
+	color: #000;
+	text-decoration: none;
+}
+
+.print-tabs .tab.active { 
+	background-color: #ffc30e;
+}
+
+.print-tabs .tab a.active { 
+	font-weight: bold; 
+	color: #000;
+}
+
+.tab-container .panel-container { 
+	background: #fff; 
+	padding: 10px; 
+	 
+}
+
+.tab-container ul div:focus {
+	outline: none;
+}
+    
+.tab-container-top {
+	background-color: #ffc30e;
+	padding: 30px;
+	margin-top: 30px;
+}
+
+.tab-container-top-left {
+	float: left;
+}
+
+.order-form {
+	float: right;
+	position: relative;
+}
+
 /* 6.1.1 Shirts
 -------------------------------------------------------------- */
 
@@ -429,8 +510,6 @@ ul.shirts li {
 #info, #basic, #ringspun, #fashion, #ecofriendly {
 	margin: 0 auto;
 	width: 665px;
-	font-family: 'Oswald', Helvetica, Arial, sans-serif;
-	text-transform: uppercase;
 } 
 
 
@@ -534,6 +613,8 @@ ul.sweatshirts li {
 	width: 100px;
 	text-align: center;
 	margin: 0 15px;
+	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
 } 
 
 /* 6.1.3 Stickers
@@ -674,6 +755,7 @@ h3#reply-title {
 	text-align: center;
 	font-size: 12px;
 	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+	font-weight: 700;
 }
 
 /* Social Icons */
@@ -699,84 +781,7 @@ ul.social-icons {
 	margin-right: 0;
 }
 
-/* easy tabs */
 
-.etabs { 
-	margin: 0; 
-	padding: 0; 
-}
-
-.print-tabs {
-	text-align: center;
-	margin: 0 auto;
-	display: block;
-}
-
-.print-tabs .tab { 
-	display: inline-block; 
-	/*zoom: 1;*/ 
-	*display:inline; 
-	background: #000; 
-	border-radius: 50%; 
-	-moz-border-radius: 50%; 
-	-webkit-border-radius: 50%; 
-	height: 85px;
-	width: 85px;
-	color: #ffc30e;
-	margin: 0 15px;
-}
-
-.print-tabs .tab a { 
-	font-size: 14px; 
-	line-height: 85px;
-	color: #ffc30e;
-	display: block;  
-}
-
-.print-tabs .tab a:hover { 
-	color: #000; 
-	text-decoration: none;
-}
-
-.print-tabs li.tab:hover {
-	background-color: #ffc30e;
-	color: #000;
-	text-decoration: none;
-}
-
-.print-tabs .tab.active { 
-	background-color: #ffc30e;
-}
-
-.print-tabs .tab a.active { 
-	font-weight: bold; 
-	color: #000;
-}
-
-.tab-container .panel-container { 
-	background: #fff; 
-	padding: 10px; 
-	 
-}
-
-.tab-container ul div:focus {
-	outline: none;
-}
-    
-.tab-container-top {
-	background-color: #ffc30e;
-	padding: 30px;
-	margin-top: 30px;
-}
-
-.tab-container-top-left {
-	float: left;
-}
-
-.order-form {
-	float: right;
-	position: relative;
-}
 
 /* 11. Gravity Forms
 -------------------------------------------------------------- */
