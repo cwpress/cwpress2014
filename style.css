@@ -221,7 +221,7 @@ font-style: normal;
 .home article {
 	background-color: #242424;
 	color: #615f5f;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 	font-size: 32px;
 	text-transform: uppercase;
 	text-align: center;
@@ -331,7 +331,7 @@ font-style: normal;
 	background-color: #ffc30e;
 	color: #000000;
 	font-size: 24px;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 	font-weight: 500;
 	padding: 30px;
 	line-height: 30px;
@@ -344,7 +344,7 @@ font-style: normal;
 	text-transform: uppercase;
 	font-weight: 500;
 	font-size: 14px;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 	margin: 40px 0 20px;
 }
 
