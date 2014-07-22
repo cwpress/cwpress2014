@@ -156,8 +156,8 @@ ul.nav-menu, div.nav-menu > ul {
 .nav-menu li a {
 	color: #0b0708;
 	text-transform: uppercase;
-	font-family: 'Helvetica', 'Arial', sans-serif;
-	font-weight: 700;
+	font-family: 'Oswald', 'Helvetica', 'Arial', sans-serif;
+	font-weight: 400;
 }
 
 .nav-menu li:hover > a, .nav-menu li a:hover, .nav-menu li:focus > a, .nav-menu li a:focus {
@@ -612,7 +612,7 @@ h3#reply-title {
 
 .footer-contact {
 	text-transform: uppercase;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Oswald', 'Helvetica', 'Arial', sans-serif;
 	font-size: 12px;
 	font-weight: 700;
 }
