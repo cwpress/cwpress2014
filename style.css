@@ -40,6 +40,11 @@ xx. Responsive
 /* 1. Global
 -------------------------------------------------------------- */
 
+body {
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+}
+
+
 a, .entry-content a, .comment-content a, .entry-meta a, .widget a {
 	color: #00a843;
 }
@@ -49,12 +54,20 @@ a:hover, .entry-content a:hover, .comment-content a:hover, .entry-meta a:hover, 
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 }
 
 h1 {
 	font-size: 26px;
 	text-transform: uppercase;
+}
+
+html,
+button,
+input,
+select,
+textarea {
+	font-family: 'Montserrat', Helvetica, sans-serif;
 }
 
 .entry-title {
