@@ -107,7 +107,15 @@ button:hover, button:focus, input[type="submit"]:hover, input[type="button"]:hov
 	outline: none;
 	} /* ie8, chrome, etc */
 
+button, input, textarea {
+	border: none;
+	background: rgba(255, 195, 14, 0.2);
+}
 
+input:focus, textarea:focus {
+	border: 1px solid #e1e1e1;
+	background: rgba(255, 195, 14, 0.7);
+}
 
 /* 2. Top Nav Bar 
 -------------------------------------------------------------- */
