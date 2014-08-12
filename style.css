@@ -1019,7 +1019,7 @@ ul.social-icons {
 
 	.toggled-on .nav-menu li > ul {
 		background-color: rgba(41, 41, 41, 0.8);
-		display: block;
+		display: none;
 		margin: 11px 120px 0 20px;
 		position: absolute;
 		left: auto;
