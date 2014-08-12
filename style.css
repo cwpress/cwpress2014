@@ -205,7 +205,8 @@ font-style: normal;
 .nav-menu .sub-menu,
 .nav-menu .children {
 	background-color: #220e10;
-	border: 2px solid #f7f5e7;
+	background-color: rgba(40, 40, 40, 0.8);
+	border: none;
 	border-top: 0;
 	padding: 0;
 	position: absolute;
@@ -215,7 +216,7 @@ font-style: normal;
 	width: 1px;
 	overflow: hidden;
 	clip: rect(1px, 1px, 1px, 1px);
-	
+	text-align: left;
 }
 
 .nav-menu .sub-menu ul,
@@ -226,13 +227,22 @@ font-style: normal;
 
 }
 
-.nav-menu .submenu li {
+.nav-menu .sub-menu li {
 	display: inline-block;
-	content: none;
-	color: #fff;
-	margin-left: 20px;
+	color: #000;
+	margin-left: 0;
+	margin-right: 0;
 	font-size: 1.2em;
 	line-height: .5em;
+	padding-top: 5px;
+}
+
+.nav-menu .sub-menu li a:hover {
+	background-color: #000;
+}
+
+.nav-menu .sub-menu li a:after {
+	content: none;
 }
 
 /* 3. Royal Slider 
