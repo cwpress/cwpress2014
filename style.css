@@ -206,6 +206,10 @@ font-style: normal;
 	
 }
 
+.rsUni, .rsUni .rsOverflow, .rsUni .rsSlide, .rsUni .rsVideoFrameHolder, .rsUni .rsThumbs {
+	background: none;
+}
+
 .cwHomeSlider .rsImg {
 	margin-top: 0 !important;
 }
