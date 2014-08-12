@@ -882,6 +882,14 @@ ul.social-icons {
 	margin-right: 8px;
 }
 
+.quantity label {
+	float: left;
+}
+
+.quantity div {
+float: left;
+margin: 8px 0 0 10px;
+}
 
 /* xx. Responsive
 -------------------------------------------------------------- */
