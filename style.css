@@ -196,7 +196,43 @@ ul.nav-menu, div.nav-menu > ul {
 .nav-menu .current_page_item > a, .nav-menu .current_page_ancestor > a, .nav-menu .current-menu-item > a, .nav-menu .current-menu-ancestor > a {
 color: #AD0202;
 font-style: normal;
-/*border-bottom: 6px solid #000;*/
+/*border-bottom: 6px solid #000; part of the original design but looks bad with the dots */
+}
+
+/* Submenu */
+
+
+.nav-menu .sub-menu,
+.nav-menu .children {
+	background-color: #220e10;
+	border: 2px solid #f7f5e7;
+	border-top: 0;
+	padding: 0;
+	position: absolute;
+	left: -2px;
+	z-index: 99999;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+	clip: rect(1px, 1px, 1px, 1px);
+	
+}
+
+.nav-menu .sub-menu ul,
+.nav-menu .children ul {
+	border-left: 0;
+	left: 100%;
+	top: 0;
+
+}
+
+.nav-menu .submenu li {
+	display: inline-block;
+	content: none;
+	color: #fff;
+	margin-left: 20px;
+	font-size: 1.2em;
+	line-height: .5em;
 }
 
 /* 3. Royal Slider 
