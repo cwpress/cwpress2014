@@ -49,7 +49,8 @@
 			updateHash: false
 		});
 		$('#shirt-tab-container').easytabs({
-			collapsible: true,
+			defaultTab: 'div#info'
+			// collapsible: true,
 			transitionCollapse: 'slideUp',
 			transitionUncollapse: 'slideDown',
 			updateHash: false
