@@ -207,7 +207,7 @@ font-style: normal;
 }
 
 .rsUni, .rsUni .rsOverflow, .rsUni .rsSlide, .rsUni .rsVideoFrameHolder, .rsUni .rsThumbs {
-	background: none;
+	background: none !important;
 }
 
 .cwHomeSlider .rsImg {
