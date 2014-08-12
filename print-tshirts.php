@@ -17,6 +17,7 @@ Template for the tshirts tab of the print page.
 			<li>Do you have a t-shirt brand and color of shirt selected? </li>
 			<li>How many and what color(s) of ink?</li>
 			<li>When do you need them?<br>(Our turnaround is 10 business days. Do you need a rush?)</li>
+         <li>If you have all this ready to go, <a href="<?php echo site_url(); ?>/quote-request/">place a quote</a>. If not, <a href="mailto:info@cwpress.com">email us</a> and let us help you get it going. </li>
 			</ol>
 			</div>
 	    <a href="<?php echo site_url(); ?>/quote-request/"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/orderform-download.png" class="order-form"></a>
