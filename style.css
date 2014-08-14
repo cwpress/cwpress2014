@@ -44,6 +44,10 @@ body {
 	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 }
 
+.site {
+	max-width: 1950px;
+}
+
 
 a, .entry-content a, .comment-content a, .entry-meta a, .widget a {
 	color: #00a843;
@@ -143,6 +147,7 @@ input:focus, textarea:focus {
 	background-color: #ffc30e; 
 	height: 70px;
 	z-index: 200;
+	max-width: 1950px;
 }
 
 .site-header .search-form {
@@ -321,6 +326,7 @@ font-style: normal;
 	color: #fff;
 	text-align: center;
 	padding-bottom: 30px;
+	margin-top: -1px;
 }
 
 .twitter-username {
