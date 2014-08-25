@@ -1120,4 +1120,15 @@ margin: 8px 0 0 10px;
 		float: right;
 	}
 
+	#shirt-tab-container, #sweatshirt-tab-container, #posters, #stickers, #questions, .print-container {
+	max-width: 320px;
+	margin: 0 auto;
+	}
+
+	#info, #basic, #ringspun, #fashion, #ecofriendly {
+	margin: 0 auto;
+	max-width: 320px;
+	width: 100%;
+	}
+
 }
