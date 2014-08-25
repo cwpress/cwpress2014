@@ -7,6 +7,7 @@ Template for the tshirts tab of the print page.
 ?>
 
 <div class="tab-container-top">
+      <div class="print-container"> <!-- allow .tab-container-top to stretch full screen and contain content 800 width -->
 	  		<div class="tab-container-top-left">
 		    <h2>Lets Get Started </h2>
 		    <ol>
@@ -23,6 +24,7 @@ Template for the tshirts tab of the print page.
 	    <a href="<?php echo site_url(); ?>/quote-request/"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/orderform-download.png" class="order-form"></a>
 
 	    <div class="clear"></div>
+      </div> <!-- .print-container -->
 </div> <!-- .tab-container-top -->
 	    	
 <div id="shirt-tab-container">
