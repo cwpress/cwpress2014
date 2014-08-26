@@ -242,6 +242,10 @@ font-style: normal;
 	padding-top: 5px;
 }
 
+.nav-menu .sub-menu li a {
+	color: #ffffff;
+}
+
 .nav-menu .sub-menu li a:hover {
 	background-color: #000;
 }

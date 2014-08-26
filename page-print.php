@@ -16,8 +16,7 @@ get_header(); ?>
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
 
-			<h4>WHAT WOULD YOU LIKE</h4>
-			<h4>US TO PRINT</h4>
+			<h4>WHAT WOULD YOU LIKE US TO PRINT</h4>
 			<p>(select one)</p>
 
 			<div id="tab-container" class="tab-container" >
