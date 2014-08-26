@@ -211,6 +211,7 @@ font-style: normal;
 .nav-menu .children {
 	background-color: #220e10;
 	background-color: rgba(40, 40, 40, 0.8);
+	background-color: #ffc30e;
 	border: none;
 	border-top: 0;
 	padding: 0;
@@ -243,12 +244,13 @@ font-style: normal;
 }
 
 .nav-menu .sub-menu li a {
-	color: #ffffff;
-	color: #ffc30e;
+	color: #000000;
+
 }
 
 .nav-menu .sub-menu li a:hover {
 	background-color: #000;
+	color: #ffffff;
 }
 
 .nav-menu .sub-menu li a:after {
