@@ -209,8 +209,6 @@ font-style: normal;
 
 .nav-menu .sub-menu,
 .nav-menu .children {
-	background-color: #220e10;
-	background-color: rgba(40, 40, 40, 0.8);
 	background-color: #ffc30e;
 	border: none;
 	border-top: 0;
