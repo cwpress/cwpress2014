@@ -5,10 +5,17 @@ Template for the posters tab of the print page.
 
 */
 ?>
+ <div class="print-container"> <!-- allow .tab-container-top to stretch full screen and contain content 800 width -->
+	  		<div class="tab-container-top-left">
+			<h2>Posters</h2>
 
-<h2>Posters</h2>
+			<p>All of our posters are hand screened works of art for your band, event, or artwork. The pricing below will help you get an idea of what costs will be involved. If you have any questions to get this moving, just let us know.</p>
+			 
+			    <a href="<?php echo site_url(); ?>/quote-request/"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/orderform-download.png" class="order-form"></a>
 
-<p>All of our posters are hand screened works of art for your band, event, or artwork. The pricing below will help you get an idea of what costs will be involved. If you have any questions to get this moving, just let us know.</p>
+	    <div class="clear"></div>
+      </div> <!-- .print-container -->
+</div> <!-- .tab-container-top -->
  
 <h4>fits 12.5x19 sheets (typically 11x17)</h4>
 
