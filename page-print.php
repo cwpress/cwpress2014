@@ -16,11 +16,13 @@ get_header(); ?>
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
 
-			<h4>WHAT WOULD YOU LIKE US TO PRINT</h4>
-			<p>(select one)</p>
+			
 
 			<div id="tab-container" class="tab-container" >
-
+				<div class="print-h3">
+				<h3>WHAT WOULD YOU LIKE US TO PRINT</h3>
+				<p>(select one)</p>
+				</div>
 			  <ul class='etabs print-tabs'>
 			    <li class='tab'><a href="#shirts">Shirts</a></li>
 			    <li class='tab'><a href="#sweatshirts">Sweatshirts</a></li>
