@@ -10,7 +10,7 @@ Template for the questions tab of the print page.
  <div class="print-content-container"> <!-- allow .tab-container-top to stretch full screen and contain content 800 width -->
 	  		<div class="tab-container-top-left">
 			<h2>You have questions, we have answers.</h2>
-			<p><a href="mailto:#">Email us</a>...</p>
+			<p><a href="mailto:info@cwpress.com">Email us</a>...</p>
 			</div>
 	    <div class="clear"></div>
       </div> <!-- .print-container -->

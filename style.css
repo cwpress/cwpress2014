@@ -136,7 +136,7 @@ input:focus, textarea:focus {
 	position: absolute;
 	top: 0;
 	left: 50%;
-	margin-left: -87px;
+	margin-left: -75px;
 	display: block;
 	z-index: 9998;
 }
