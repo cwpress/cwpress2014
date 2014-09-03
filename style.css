@@ -962,11 +962,11 @@ li#field_1_7, li#field_1_9, li#field_1_10, li#field_1_41, li#field_1_42, li#fiel
 	margin: 0;
 }
 
-li#field_1_7, li#field_1_10 {
+li#field_1_7, li#field_1_10, li#field_1_44 {
 	border-bottom: 1px dotted #FFF; 
 }
 
-li#field_1_9 textarea, li#field_1_57 textarea, li#field_1_58 textarea, li#field_1_59 textarea, li#field_1_60 textarea, li#field_1_61 textarea, li#field_1_62 textarea {
+li#field_1_9 textarea, li#field_1_42 textarea, li#field_1_57 textarea, li#field_1_58 textarea, li#field_1_59 textarea, li#field_1_60 textarea, li#field_1_61 textarea, li#field_1_62 textarea {
 	background: rgba(255, 255, 255, 0.7);
 }
 /* xx. Responsive
