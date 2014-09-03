@@ -543,12 +543,41 @@ font-style: normal;
 	text-decoration: none;
 }
 
+.print-tabs li.tab:hover .icon {
+	fill: #000;
+}
+
 .print-tabs .tab.active { 
 	background-color: #ffc30e;
 }
 
-.print-tabs .tab a.active { 
-	color: #000;
+.print-tabs .tab a.active .icon { 
+	fill: #000;
+}
+
+/* For Shirt Icon SVG */
+.icon {
+	display: block;
+	width: 70px;
+	height: 70px;
+	fill: #ffc30e;
+	margin: 0 auto;
+	padding: 10px 0 0;
+}
+.icon-posters {
+	/*fill: #000000;*/
+}
+.icon-questions {
+	/*fill: #000000;*/
+}
+.icon-shirt {
+	/*fill: #000000;*/
+}
+.icon-stickers {
+	/*fill: #000000;*/
+}
+.icon-sweatshirt {
+	/*fill: #000000;*/
 }
 
 .tab-container .panel-container { 
