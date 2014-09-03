@@ -956,10 +956,10 @@ float: left;
 margin: 8px 0 0 10px;
 }
 
-li#field_1_7, li#field_1_9, li#field_1_10 li#field_1_41, li#field_1_42, li#field_1_44, li#field_1_46, li#field_1_56, li#field_1_57, li#field_1_58, li#field_1_59, li#field_1_60, li#field_1_61, li#field_1_62, li#field_1_70, { /*makes design area background yellow*/
-background: #ffc30e;
-padding: 20px;
-margin: 0;
+li#field_1_7, li#field_1_9, li#field_1_10, li#field_1_41, li#field_1_42, li#field_1_44, li#field_1_46, li#field_1_56, li#field_1_57, li#field_1_58, li#field_1_59, li#field_1_60, li#field_1_61, li#field_1_62, li#field_1_70 { /*makes design area background yellow*/
+	background: #ffc30e;
+	padding: 20px;
+	margin: 0;
 }
 
 
