@@ -575,6 +575,10 @@ font-style: normal;
 }
 .icon-stickers {
 	/*fill: #000000;*/
+	-ms-transform: rotate(-12deg); /* IE 9 */
+    -webkit-transform: rotate(-12deg); /* Chrome, Safari, Opera */
+    transform: rotate(-12deg);
+    padding-top: 13px;
 }
 .icon-sweatshirt {
 	/*fill: #000000;*/
