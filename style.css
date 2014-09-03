@@ -935,6 +935,10 @@ ul.social-icons {
 /* 11. Gravity Forms
 -------------------------------------------------------------- */
 
+.gform_heading {
+	display: none;
+}
+
 #input_1_46 li {
 	display: inline-block;
 	margin-right: 30px;
