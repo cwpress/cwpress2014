@@ -711,6 +711,8 @@ ul.shirts li {
 }
 #spice-brown {
 	background-color: #82564d;
+	color: #ffffff;
+	font-weight: 400;
 }
 #forest-green {
 	background-color: #082813;
@@ -718,6 +720,7 @@ ul.shirts li {
 }
 #kelly-green {
 	background-color: #104b1f;
+	color: #ffffff;
 }
 #grass-green {
 	background-color: #197e3a;
@@ -745,6 +748,7 @@ ul.shirts li {
 }
 #purple {
 	background-color: #321c65;
+	color: #ffffff;
 } 
 #light-purple {
 	background-color: #955c91;
