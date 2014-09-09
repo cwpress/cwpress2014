@@ -706,52 +706,96 @@ ul.shirts li {
 	color: #000000;
 	border: 1px solid #c0c0c0;
 }
-#hunter-green {
-	background-color: ;
+#brown {
+	background-color: #4b220e;
+}
+#spice-brown {
+	background-color: #82564d;
+}
+#forest-green {
+	background-color: #082813;
 }
 #kelly-green {
-	background-color: ;
+	background-color: #104b1f;
 }
-#lite-blue {
-	background-color: ;
+#grass-green {
+	background-color: #197e3a;
+}
+#lime-green {
+	background-color: #0dba10;
+}
+#navy-blue {
+	background-color: #090a1c;
 }
 #royal-blue {
-	background-color: ;
+	background-color: #0b1fa2;
 }
-#lite-navy {
-	background-color: ;
+#columbia-blue {
+	background-color: #2d61d1;
+}
+#sky-blue {
+	background-color: #31bdfa;
+}
+#reflex-blue {
+	background-color: #000c7a;
 }
 #purple {
-	background-color: ;
-}
-#violet {
-	background-color: ;
+	background-color: #321c65;
+} 
+#light-purple {
+	background-color: #955c91;
 }
 #maroon {
-	background-color: ;
+	background-color: #470133;
 }
 #cardinal-red {
-	background-color: ;
+	background-color: #88070c;
+}
+#scarlet-red {
+	background-color: #ea1613;
 }
 #bright-red {
-	background-color: ;
+	background-color: #e91114;
+}
+#magenta {
+	background-color: #f61e67;
+}
+#fuchsia {
+	background-color: #fe0f52;
+}
+#fluorescent-pink {
+	background-color: #ff67cc;
 }
 #orange {
+	background-color: #ff3511;
+}
+#gold {
+	background-color: #ffa300;
+}
+#light-gold {
 	background-color: ;
 }
-#lite-gold /* pittsburgh gold */ {
-	background-color: ;
-} 
-#yellow {
-	background-color: ;
+#lemon {
+	background-color: #ffe800;
 }
-#dallas-gold {
-	background-color: ;
+#yellow{
+	background-color: #fef457;
+}
+#vegas-gold {
+	background-color: #d6bf61;
 }
 #khaki {
-	background-color: ;
+	background-color: #e1efb4;
+} 
+#light-gray {
+	background-color: #c7c8ca;
 }
-
+#gray {
+	background-color: #818286;
+}
+#dark-gray {
+	background-color: #404040;
+}
 .order-img {
 	text-align: center;
 }

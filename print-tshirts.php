@@ -110,21 +110,36 @@ Template for the tshirts tab of the print page.
 <h2>Ink Colors</h2>
    <div class="ink" id="black">Black</div>
    <div class="ink" id="white">White</div>
-   <div class="ink" id="hunter-green">Hunter Green</div>
-   <div class="ink" id="kelly-green">Kelly Green</div>
-   <div class="ink" id="lite-blue">Lite Blue</div>
-   <div class="ink" id="royal-blue">Royal Blue</div>
-   <div class="ink" id="lite-navy">Lite Navy</div>
-   <div class="ink" id="purple">Purple</div>
-   <div class="ink" id="violet">Violet</div>
-   <div class="ink" id="maroon">Maroon</div>
-   <div class="ink" id="cardinal-red">Cardinal Red</div>
-   <div class="ink" id="bright-red">Bright Red</div>
-   <div class="ink" id="orange">Orange</div>
-   <div class="ink" id="lite-gold">PGH Gold</div>
-   <div class="ink" id="yellow">Yellow</div>
-   <div class="ink" id="dallas-gold">Dallas Gold</div>
-   <div class="ink" id="khaki">Khaki</div>
+   <div class="ink" id="brown">Hunter Green</div>
+   <div class="ink" id="spice-brown">Kelly Green</div>
+   <div class="ink" id="forest-green">Lite Blue</div>
+   <div class="ink" id="kelly-green">Royal Blue</div>
+   <div class="ink" id="grass-green">Lite Navy</div>
+   <div class="ink" id="lime-green">Purple</div>
+   <div class="ink" id="navy-blue">Violet</div>
+   <div class="ink" id="royal-blue">Maroon</div>
+   <div class="ink" id="columbia-blue">Cardinal Red</div>
+   <div class="ink" id="sky-blue">Bright Red</div>
+   <div class="ink" id="reflex-blue">Orange</div>
+   <div class="ink" id="purple">PGH Gold</div>
+   <div class="ink" id="light-purple">Yellow</div>
+   <div class="ink" id="maroon">Dallas Gold</div>
+   <div class="ink" id="cardinal-red">Khaki</div>
+   <div class="ink" id="scarlet-red">Hunter Green</div>
+   <div class="ink" id="bright-red">Kelly Green</div>
+   <div class="ink" id="magenta">Lite Blue</div>
+   <div class="ink" id="fuchsia">Royal Blue</div>
+   <div class="ink" id="fluorescent-pink">Lite Navy</div>
+   <div class="ink" id="orange">Purple</div>
+   <div class="ink" id="gold">Violet</div>
+   <div class="ink" id="light-gold">Maroon</div>
+   <div class="ink" id="lemon">Cardinal Red</div>
+   <div class="ink" id="yellow">Bright Red</div>
+   <div class="ink" id="vegas-gold">Orange</div>
+   <div class="ink" id="khaki">PGH Gold</div>
+   <div class="ink" id="light-gray">Yellow</div>
+   <div class="ink" id="gray">Dallas Gold</div>
+   <div class="ink" id="dark-gray">Khaki</div>
 
    <div class="clear"></div>
 
