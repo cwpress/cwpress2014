@@ -714,6 +714,7 @@ ul.shirts li {
 }
 #forest-green {
 	background-color: #082813;
+	color: #ffffff;
 }
 #kelly-green {
 	background-color: #104b1f;
@@ -726,9 +727,11 @@ ul.shirts li {
 }
 #navy-blue {
 	background-color: #090a1c;
+	color: #ffffff;
 }
 #royal-blue {
 	background-color: #0b1fa2;
+	color: #ffffff;
 }
 #columbia-blue {
 	background-color: #2d61d1;
@@ -738,6 +741,7 @@ ul.shirts li {
 }
 #reflex-blue {
 	background-color: #000c7a;
+	color: #ffffff;
 }
 #purple {
 	background-color: #321c65;
@@ -747,6 +751,7 @@ ul.shirts li {
 }
 #maroon {
 	background-color: #470133;
+	color: #ffffff;
 }
 #cardinal-red {
 	background-color: #88070c;
@@ -795,6 +800,7 @@ ul.shirts li {
 }
 #dark-gray {
 	background-color: #404040;
+	color: #ffffff;
 }
 .order-img {
 	text-align: center;
