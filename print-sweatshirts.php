@@ -11,9 +11,8 @@ Template for the sweatshirts tab of the print page.
 
 		<div class="tab-container-top-left">
 			    <h2>Sweatshirts</h2>
-			    <ol>
-			    <li>GIVE ME TEXT</li>
-				</ol>
+			    Just like t-shirts we have hoodies we prefer to use but there are tons more we can and have printed on. If you would just like to peruse some online material, check our distributors’ catalogs located at <a href="http://www.ourproductonline.com" target="_blank">ourproductonline.com</a> and <a href="http://www.4logowearables.com" target="_blank">4logowearables.com</a>. If you are looking for something specific or have any questions at all, please <a href="mailto:info@cwpress.com">contact us</a>. We will be happy to help guide you through the process of choosing the right garments for your art.<br><br>
+				There are literally thousands of garment options, literally. If you have an idea or need something that isn't just flat out straight forward, let us know what you are trying to accomplish. We can use our network of distributors and years of problem solving experience to help you get what you are doing done.
 		</div>
 		<a href="<?php echo site_url(); ?>/quote-request/"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/place-order.svg" class="order-form"></a>
 
@@ -25,11 +24,7 @@ Template for the sweatshirts tab of the print page.
 		<h2>Styles</h2>
 		<ul class="sweatshirts">
 			<li><a href="#zip-up">
-			<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                   width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
-               <path class="shirt1" d="M99.822,17.266C93.799,12.244,62.069,3.808,62.069,3.808C59.259,8.629,50.02,9.433,50.02,9.433h-0.002
-                  C50.01,9.431,40.78,8.627,37.969,3.808c0,0-31.729,8.436-37.752,13.458L7.043,38.15h13.656l-1.205,59.068h61.05L79.339,38.15h13.654
-                  L99.822,17.266z"/></svg>Zip Up</a></li>
+			<svg class="icon icon-sweatshirt" viewBox="0 0 32 32"><use xlink:href="#icon-sweatshirt"></use></svg></a>Zip Up</a></li>
 			<li><a href="#pullover">
 			<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                    width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
@@ -39,11 +34,11 @@ Template for the sweatshirts tab of the print page.
 		</ul>
 			<div id="zip-up">
 				<h4>Zip Up</h4>
-				stuff here. shirts here.
+				Our go-to zip up hoodie is the Anvil 71600. This medium weight hoodie has a quality zipper, white drawcords, and a 75% soft ringspun cotton / 25% polyester blend for a comfortable hoodie that holds its shape through a wash. While the white drawcords and ringspun cotton make this hoodie seem like a much more expensive product it falls in line price wise much closer to the other basic zip ups. 
 			</div>
 			<div id="pullover">
 				<h4>Pullover</h4>
-				stuff here. shirts here.
+				There a lots of good and comparable options in pullover hoodies. We really like the Tultex pullover. It is a medium weight 80% cotton / 20% polyester blend with a tearaway tag. Another similar pullover we use a lot is the Jerzees medium weight 50/50 blend blend hoodie. You can’t go wrong with either and usually it comes down to the color you prefer or which one has more inventory at the time.
 			</div>
 			
 
