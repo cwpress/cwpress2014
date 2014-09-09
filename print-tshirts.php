@@ -27,7 +27,7 @@ Template for the tshirts tab of the print page.
       </div> <!-- .print-container -->
 </div> <!-- .tab-container-top -->
 	    	
-<div class="print-content-container">
+<div class="print-content-container" id="shirt-tab-container">
 
          <h2>Brands We Carry</h2>
    		<ul class="shirts">

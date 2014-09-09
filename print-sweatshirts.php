@@ -21,7 +21,7 @@ Template for the sweatshirts tab of the print page.
 	</div> <!-- .print-container -->
 </div> <!-- .tab-container-top -->
 				    	
-<div class="print-content-container">
+<div class="print-content-container" id="sweatshirt-tab-container">
 		<h2>Styles</h2>
 		<ul class="sweatshirts">
 			<li><a href="#zip-up">
