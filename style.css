@@ -708,11 +708,11 @@ ul.shirts li {
 }
 #brown {
 	background-color: #4b220e;
+	color: #ffffff;
+	font-weight: 300;
 }
 #spice-brown {
 	background-color: #82564d;
-	color: #ffffff;
-	font-weight: 400;
 }
 #forest-green {
 	background-color: #082813;
