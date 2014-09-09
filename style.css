@@ -558,8 +558,8 @@ font-style: normal;
 /* For Shirt Icon SVG */
 .icon {
 	display: block;
-	width: 70px;
-	height: 70px;
+	width: 60px;
+	height: 60px;
 	fill: #ffc30e;
 	margin: 10px auto;
 }
