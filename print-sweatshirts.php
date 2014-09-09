@@ -24,9 +24,9 @@ Template for the sweatshirts tab of the print page.
 		<h2>Styles</h2>
 		<ul class="sweatshirts">
 			<li><a href="#zip-up">
-			<svg class="icon icon-sweatshirt" viewBox="0 0 32 32"><use xlink:href="#icon-sweatshirt"></use></svg></a>Zip Up</a></li>
+			<svg class="icon-sweatshirt-sub" viewBox="0 0 32 32"><use xlink:href="#icon-sweatshirt"></use></svg></a>Zip Up</a></li>
 			<li><a href="#pullover">
-			<svg class="icon icon-sweatshirt" viewBox="0 0 32 32"><use xlink:href="#icon-sweatshirt"></use></svg></a>Pullover</a></li>
+			<svg class="icon-sweatshirt-sub" viewBox="0 0 32 32"><use xlink:href="#icon-sweatshirt"></use></svg></a>Pullover</a></li>
 		</ul>
 			<div id="zip-up">
 				<h4>Zip Up</h4>
