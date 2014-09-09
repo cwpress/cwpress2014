@@ -584,6 +584,19 @@ font-style: normal;
 	/*fill: #000000;*/
 }
 
+.icon-sweatshirt-sub {
+	display: block;
+	width: 125px;
+	height: 125px;
+	fill: #ffc30e;
+	margin: 0 auto;
+	padding: 10px 0 0;
+}
+
+.icon-sweatshirt-sub:hover{
+	fill: #000000;
+}
+
 .tab-container .panel-container { 
 	background: #fff; 
 	padding: 10px; 
