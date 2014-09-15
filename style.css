@@ -649,7 +649,7 @@ ul.shirts li {
 	height: 100px;
 	width: 100px;
 	text-align: center;
-	margin: 15px;
+	margin: 15px 10px;
 	font-family: 'Oswald', Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 } 
