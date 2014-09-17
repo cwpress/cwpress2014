@@ -45,6 +45,7 @@ xx. Responsive
 
 body {
 	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+	background: #f4f3ea;
 }
 
 .site {
@@ -90,7 +91,7 @@ textarea {
 }
 
 article {
-	background: #f4f3ea;
+
 }
 
 
