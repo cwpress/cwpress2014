@@ -89,6 +89,11 @@ textarea {
 	right: 0;
 }
 
+article {
+	background: #f4f3ea;
+}
+
+
 /* Buttons */
 
 button, input[type="submit"], input[type="button"], input[type="reset"] {
