@@ -489,6 +489,7 @@ font-style: normal;
 	/*max-width: 800px;*/
 	width: 100%;
 	padding: 0;
+	background: #f4f3ea;
 }
 
 .print-h3 {
@@ -603,7 +604,7 @@ font-style: normal;
 }
 
 .tab-container .panel-container { 
-	background: #fff; 
+	 
 	padding: 10px; 
 	 
 }
@@ -636,6 +637,7 @@ font-style: normal;
 .print-content-container {
 	max-width: 800px;
 	margin: 0 auto;
+	background: #f4f3ea;
 }
 
 
