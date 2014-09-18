@@ -851,6 +851,7 @@ ul.sweatshirts li {
 }
 #red {
 	background-color: #e30d0d;
+	margin-left: 150px;
 }
 
 /* 6.1.4 Questions
@@ -1126,6 +1127,9 @@ li#field_1_9 textarea, li#field_1_42 {
 		margin: 0 auto;
 		float: none;
 	}
+	#red {
+	margin-left: 0;
+}
 
 	
 }
