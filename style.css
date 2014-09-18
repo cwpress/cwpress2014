@@ -1127,9 +1127,17 @@ li#field_1_9 textarea, li#field_1_42 {
 		margin: 0 auto;
 		float: none;
 	}
+
+	.lower {
+		margin: 0 25px;
+	}
+	
 	#red {
 	margin-left: 0;
-}
+	}
+
+
+
 
 	
 }

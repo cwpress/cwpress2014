@@ -18,7 +18,7 @@ Template for the posters tab of the print page.
       </div> <!-- .print-container -->
 </div> <!-- .tab-container-top -->
 
-<div class="print-content-container">
+<div class="print-content-container lower">
 	<h4>fits 12.5x19 sheets (typically 11x17)</h4>
 
 	<table>

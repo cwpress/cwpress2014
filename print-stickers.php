@@ -30,7 +30,7 @@ Template for the stickers tab of the print page.
       </div> <!-- .print-container -->
 </div> <!-- .tab-container-top -->
 
-<div class="print-content-container">
+<div class="print-content-container lower">
 <h2>Ink Colors</h2>
    <div class="ink" id="red">Red</div>
    <div class="ink" id="blue">Blue</div>
