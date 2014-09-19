@@ -45,3 +45,40 @@ Template for the posters tab of the print page.
 	<li>$25 per PMS match</li>
 	</ul>
 </div>
+<div class="ink-colors">
+<h2>Ink Colors</h2>
+   <div class="ink" id="black">Black</div>
+   <div class="ink" id="white">White</div>
+   <div class="ink" id="cream-p">Cream</div>
+   <div class="ink" id="lemon-yellow-p">Lemon Yellow</div>
+   <div class="ink" id="maize-p">Maize</div>
+   <div class="ink" id="dirty-yellow-p">Dirty Yellow</div>
+   <div class="ink" id="gold-p">Gold</div>
+   <div class="ink" id="burnt-orange-p">Burnt Orange</div>
+   <div class="ink" id="fire-red-p">Fire Red</div>
+   <div class="ink" id="scarlet-red-p">Scarlet Red</div>
+   <div class="ink" id="soft-pink-p">Soft Pink</div>
+   <div class="ink" id="hot-pink-p">Hot Pink</div>
+   <div class="ink" id="burgundy-p">Burgundy</div>
+   <div class="ink" id="brown-p">Brown</div>
+   <div class="ink" id="violet-p">Violet</div>
+   <div class="ink" id="light-blue-p">Light Blue</div>
+   <div class="ink" id="peacock-blue-p">Peacock Blue</div>
+   <div class="ink" id="bright-blue-p">Bright Blue</div>
+   <div class="ink" id="reflex-blue-p">Reflex Blue</div>
+   <div class="ink" id="navy-p">Navy</div>
+   <div class="ink" id="khaki-p">Khaki</div>
+   <div class="ink" id="lime-green-p">Lime Green</div>
+   <div class="ink" id="emerald-green-p">Emerald Green</div>
+   <div class="ink" id="dark-green-p">Dark Green</div>
+   <div class="ink" id="army-green-p">Army Green</div>
+   <div class="ink" id="light-grey-p">Light Gray</div>
+   <div class="ink" id="silver-metallic-p">Silver Metallic</div>
+   <div class="ink" id="gold-metallic-p">Gold Metallic</div>
+
+   <div class="clear"></div>
+
+</div>
+<div class="order-img">
+   <a href="<?php echo site_url(); ?>/quote-request/"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/place-order.svg"></a>
+</div>
