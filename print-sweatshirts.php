@@ -39,3 +39,43 @@ Template for the sweatshirts tab of the print page.
 			
 
 </div>
+<div class="ink-colors">
+<h2>Ink Colors</h2>
+   <div class="ink" id="black">Black</div>
+   <div class="ink" id="white">White</div>
+   <div class="ink" id="brown">Brown</div>
+   <div class="ink" id="spice-brown">Spice Brown</div>
+   <div class="ink" id="forest-green">Forest Green</div>
+   <div class="ink" id="kelly-green">Kelly Green</div>
+   <div class="ink" id="grass-green">Grass Green</div>
+   <div class="ink" id="lime-green">Lime Green</div>
+   <div class="ink" id="navy-blue">Navy Blue</div>
+   <div class="ink" id="royal-blue">Royal Blue</div>
+   <div class="ink" id="columbia-blue">Columbia Blue</div>
+   <div class="ink" id="sky-blue">Sky Blue</div>
+   <div class="ink" id="reflex-blue">Reflex Blue</div>
+   <div class="ink" id="purple">Purple</div>
+   <div class="ink" id="light-purple">Light Purple</div>
+   <div class="ink" id="maroon">Maroon</div>
+   <div class="ink" id="cardinal-red">Cardinal Red</div>
+   <div class="ink" id="scarlet-red">Scarlet Red</div>
+   <div class="ink" id="bright-red">Bright Red</div>
+   <div class="ink" id="magenta">Magenta</div>
+   <div class="ink" id="fuchsia">Fuchsia</div>
+   <div class="ink" id="fluorescent-pink">Fluorescent Pink</div>
+   <div class="ink" id="orange">Orange</div>
+   <div class="ink" id="gold">Gold</div>
+   <div class="ink" id="light-gold">Light Gold</div>
+   <div class="ink" id="lemon">Lemon</div>
+   <div class="ink" id="yellow">Yellow</div>
+   <div class="ink" id="vegas-gold">Vegas Gold</div>
+   <div class="ink" id="khaki">Khaki</div>
+   <div class="ink" id="light-gray">Light Gray</div>
+   <div class="ink" id="gray">Gray</div>
+   <div class="ink" id="dark-gray">Dark Gray</div>
+
+   <div class="clear"></div>
+</div>
+<div class="order-img">
+   <a href="<?php echo site_url(); ?>/quote-request/"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/place-order.svg"></a>
+</div>
