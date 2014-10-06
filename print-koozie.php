@@ -28,7 +28,7 @@ Template for the stickers tab of the print page.
 </div> <!-- .tab-container-top -->
 
 <div class="print-content-container lower">
-<h2>Ink Colors</h2>
+<h2>Koozie Colors</h2>
    <div class="ink" id="black-k">Black</div>
    <div class="ink" id="white-k">White</div>
    <div class="ink" id="burgundy-k">Burgundy</div>
