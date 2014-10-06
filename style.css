@@ -30,6 +30,8 @@ logo green - #00a843
 6.1.2 Sweatshirts
 6.1.3 Stickers
 6.1.4 Questions
+6.1.5 Posters
+6.1.6 Koozie
 7. Posts
 8. Sidebar
 9. Comments
@@ -571,7 +573,7 @@ font-style: normal;
 	margin: 10px auto;
 }
 .icon-posters {
-	/*fill: #000000;*/
+	padding-top: 5px;
 }
 .icon-questions {
 	/*fill: #000000;*/
@@ -588,6 +590,9 @@ font-style: normal;
 }
 .icon-sweatshirt {
 	/*fill: #000000;*/
+}
+.icon-koozie {
+	padding-top: 5px;
 }
 
 .icon-sweatshirt-sub {
@@ -861,7 +866,7 @@ ul.sweatshirts li {
 	font-size: 28px;
 }
 
-/* 6.1.4 Questions
+/* 6.1.5 Posters
 -------------------------------------------------------------- */
 
 #cream-p {
@@ -974,6 +979,98 @@ ul.sweatshirts li {
 }
 
 
+/* 6.1.5 Posters
+-------------------------------------------------------------- */
+
+#black-k {
+	background-color: #000;
+	color: #fff;
+}
+#white-k {
+	background-color: #fff;
+	color: #000;
+	border: 1px solid #e1e1e1;
+}
+#burgundy-k {
+	background-color: #6a3b43;
+	color: #fff;
+}
+#forest-green-k {
+	background-color: #2a4242;
+	color: #fff;
+}
+#green-camo-k {
+	background-color: #5b815c;
+	color: #fff;
+}
+#kelly-green-k {
+	background-color: #09ac1b;
+	color: #fff;
+}
+#khaki-k {
+	background-color: #ede7d1;
+	color: #000;
+	border: 1px solid #e1e1e1;
+}
+#magenta-k {
+	background-color: #f61b9d;
+	color: #fff;
+}
+#navy-blue-k {
+	background-color: #003152;
+	color: #fff;
+}
+#neon-blue-k {
+	background-color: #00a5d5;
+	color: #fff;
+}
+#neon-green-k {
+	background-color: #b5f701;
+	color: #000;
+	border: 1px solid #e1e1e1;
+}
+#neon-orange-k {
+	background-color: #f68400;
+	color: #fff;
+}
+#neon-pink-k {
+	background-color: #ff5ac3;
+	color: #fff;
+}
+#purple-k {
+	background-color: #5c287b;
+	color: #fff;
+}
+#red-k {
+	background-color: #e01944;
+	color: #fff;
+}
+#royal-blue-k {
+	background-color: #0151cc;
+	color: #fff;
+}
+#teal-k {
+	background-color: #048782;
+	color: #fff;
+}
+#yellow-k {
+	background-color: #faed0b;
+	color: #000;
+	border: 1px solid #e1e1e1;
+}
+#cocoa-brown-k {
+	background-color: #644250;
+	color: #fff;
+}
+#burnt-orange-k {
+	background-color: #df5200;
+	color: #fff;
+}
+#light-pink-k {
+	background-color: #eab7d8;
+	color: #000;
+	border: 1px solid #e1e1e1;
+}
 
 /* 7. Posts 
 -------------------------------------------------------------- */

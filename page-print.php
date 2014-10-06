@@ -33,6 +33,8 @@ get_header(); ?>
 			    	<svg class="icon icon-stickers" viewBox="0 0 32 32"><use xlink:href="#icon-stickers"></use></svg></a></li>
 			    <li class='tab'><a href="#posters">
 			    	<svg class="icon icon-posters" viewBox="0 0 32 32"><use xlink:href="#icon-posters"></use></svg></a></li>
+			    <li class='tab'><a href="#koozie">
+			    	<svg class="icon icon-koozie" viewBox="0 0 32 32"><use xlink:href="#icon-koozie"></use></svg></a></li>
 			    <li class='tab'><a href="#questions">
 			    	<svg class="icon icon-questions" viewBox="0 0 32 32"><use xlink:href="#icon-questions"></use></svg></a></li>
 			  </ul>
@@ -49,6 +51,9 @@ get_header(); ?>
 			  </div>
 			  <div id="posters">
 			    <?php get_template_part( 'print-posters', 'posters' ); ?>
+			  </div>
+			  <div id="koozie">
+			    <?php get_template_part( 'print-koozie', 'koozie' ); ?>
 			  </div>
 			  <div id="questions">
 			    <?php get_template_part( 'print-questions', 'questions' ); ?>

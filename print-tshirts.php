@@ -18,7 +18,7 @@ Template for the tshirts tab of the print page.
 			<li>Do you have a t-shirt brand and color of shirt selected? </li>
 			<li>How many and what color(s) of ink?</li>
 			<li>When do you need them?<br>(Our turnaround is 10 business days. Do you need a rush?)</li>
-         <li>If you have all this ready to go, <a href="<?php echo site_url(); ?>/quote-request/">place a quote</a>. If not, <a href="mailto:info@cwpress.com">email us</a> and let us help you get it going. </li>
+         <li>If you have all this ready to go, <a href="<?php echo site_url(); ?>/quote-request/">place a quote</a>. If not, <a href="http://www.cwpress.com/info/">contact us</a> and let us help you get it going. </li>
 			</ol>
 			</div>
 	    <a href="<?php echo site_url(); ?>/quote-request/"><img src="<?php echo site_url(); ?>/wp-content/themes/cwpress2014/images/place-order.svg" class="order-form"></a>
@@ -65,7 +65,7 @@ Template for the tshirts tab of the print page.
    		</ul>
    			<div id="info">
                <h4>General Info</h4>
-   				<p>These are four common shirt options we use, but don’t even scratch the surface of the products and styles we can and have print on. If you would just like to peruse some online material, check our distributors catalogs located at <a href="http://www.ourproductonline.com" target="_blank">ourproductonline.com</a> and <a href="http://www.4logowearables.com" target="_blank">4logowearables.com</a>. If you are looking for something specific or have any questions at all, please <a href="#">contact us</a>. We will be happy to help guide you through the process of choosing the right garments for your art.</p>
+   				<p>These are four common shirt options we use, but don’t even scratch the surface of the products and styles we can and have print on. If you would just like to peruse some online material, check our distributors catalogs located at <a href="http://www.ourproductonline.com" target="_blank">ourproductonline.com</a> and <a href="http://www.4logowearables.com" target="_blank">4logowearables.com</a>. If you are looking for something specific or have any questions at all, please <a href="http://www.cwpress.com/info/">contact us</a>. We will be happy to help guide you through the process of choosing the right garments for your art.</p>
                
                <p>There are literally thousands of garment options, literally. If you have an idea or need something that isn't just flat out straight forward, let us know what you are trying to accomplish. We can use our network of distributors and years of problem solving experience to help you get what you are doing done.</p>
    			</div>
